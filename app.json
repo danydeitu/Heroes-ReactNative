@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "heroes-de-programacion",
+    "slug": "heroes-de-programacion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "heroes-de-programacion"
+}
